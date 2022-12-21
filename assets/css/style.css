@@ -1,0 +1,67 @@
+
+
+.figure-logo {
+    margin: 0;
+}
+
+.nav-logo {
+    height: 100px;
+    width: 10rem;
+    margin: 0;
+}
+
+                                                        /* cor dor icones */
+
+.i-github{
+    color: black;
+}
+.i-linkedin{
+    color: blue;
+}
+.i-tecnologias{
+    color: darkslateblue;
+}
+.i-whatsapp{
+    color:chartreuse;
+}
+ 
+                                                            /* alinhamento e estilos da nav */
+
+
+.nav-itens{
+    align-items: center;
+}
+
+
+.nav-ul {
+    list-style: none;
+    align-items: center;
+    align-content: center;
+}
+
+.imagem-terno{
+    height: 100%;
+    width: 100%;
+}
+
+.texto-cor-especial {
+    font-family:'pacifico',cursive;
+    color: darkred;
+}
+
+.imagem-carrossel-1{
+    object-fit: cover;
+    max-width: 100vw;
+}
+.imagem-carrossel-2{
+    object-fit: cover;
+    max-width: 100vw;
+}
+
+
+
+
+                                                                 /* responsividade */
+    @media (max-width: 768px)
+    
+    
